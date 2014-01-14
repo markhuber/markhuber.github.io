@@ -27,20 +27,68 @@
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px;
 	padding-right: 15px;
+	margin-top: 15px;
 }
 
 .quote {
 	text-align: center;
 }
 
-@media (min-width: 922px) {
+.file-download {
+	display: none;
+}
+
+@media (min-width: 1200px) {
+
+	.contact-icon {
+		padding-right: 10px;
+		margin-top: -4px;
+	}
 
 	.wide-text-right {
 		text-align: right;
 	}
 
+	.wide-hide {
+		display: none;
+	}
+
 	.wide-personal-info {
 		padding-left: 15px;
+	}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+	.contact-icon {
+		padding-right: 10px;
+		margin-top: -4px;
+	}
+
+	.wide-personal-info {
+		padding-left: 30px;
+	}
+
+	.wide-text-right {
+		text-align: right;
+	}
+
+	.wide-hide {
+		display: none;
+	}
+
+}
+
+@media (max-width: 992px) {
+
+	.narrow-hide {
+		display: none;
+	}
+
+	.contact-icon {
+		padding-right: 10px;
+		margin-top: -4px;
 	}
 
 	.wide-quote {
