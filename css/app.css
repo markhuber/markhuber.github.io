@@ -34,10 +34,6 @@
 	text-align: center;
 }
 
-.file-download {
-	display: none;
-}
-
 @media (min-width: 1200px) {
 
 	.contact-icon {
