@@ -43,6 +43,10 @@
 	float: right;
 }
 
+.clear-right {
+	clear: right;
+}
+
 @media (min-width: 1440px) {
 
 	.github-visible {
