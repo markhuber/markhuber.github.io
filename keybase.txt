@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/markhuber86
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://markhuber.net
+  * I am markhuber86 (https://keybase.io/markhuber86) on keybase.
+  * I have a public key with fingerprint F1F9 8026 D77D 68C0 0315  86ED FC90 2AE7 97BE 4E04
+
+To do so, I am signing this object:
+
+{
+    body: {
+        client: {
+            name: keybase.io node.js client,
+            version: 0.7.7
+        },
+        key: {
+            fingerprint: f1f98026d77d68c0031586edfc902ae797be4e04,
+            host: keybase.io,
+            key_id: FC902AE797BE4E04,
+            uid: 19f2669f13c21ae4936b317b71911f19,
+            username: markhuber86
+        },
+        merkle_root: {
+            ctime: 1425246427,
+            hash: 54245ebf23add53ecf0af0df9fa9b772106697d03a3dd3fb6a0f4f040b0fd08122f65d069abb9b76a890227b9f6def1499b36d31844a0ce6926c4aae017a8421,
+            seqno: 168669
+        },
+        service: {
+            hostname: markhuber.net,
+            protocol: http:
+        },
+        type: web_service_binding,
+        version: 1
+    },
+    ctime: 1425246488,
+    expire_in: 157680000,
+    prev: 45d4e42175b4b97b8dd9f99971032ce70d004b80990494bb1171a16cb644ded1,
+    seqno: 3,
+    tag: signature
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkn9MVWUYxy9mCFcUxZpalnBUloTX9z3nvefHFVEkKESZKH9Y48fOe973cM+9
+cO71nAuKymJqKbgxwI1rkVuRYyUz1CxKgpk5p6OYjTWLdG7BKPmxFFPpLkbnMNvM
+96/znvfzfJ/v933ehnnPOJxR/zSk/B7uyZsd1XsHOwru1y7Zx+AAqWI8+xilTKN6
+yP7S5XLKeBg/rcKySV1aIFEPEOrymYmPmVSmkhqmFtAtCrgEl8BUp9q4Xaxqeik1
+goZmazEqVCURsDwRBMKLCgAcdIs8JaoiAVamgiRgiihAlqQ3YIb+15WZ0SzRiPU3
+O9PiM7IsflMWyprhK2YOoKSyPC+pkFNYKFMkcTzmoIAFKEGoQskGTWo8jlQuG35v
+BaaGyNuWy6nhL6MlRiAwk1sJaTYFEetmEY9YwTIlm16rzo1Y5KZYZTmZEDdHFRXI
+KiCqpMoSFgQWAsuDQAAnc4RwKuZloCIVIICBSoAIWVbl3QTwkoyxVcDLohWHFbCk
+8oSqEEkS5njCQREhGSiUl1heQbJMARRkEbHQSmHSXXrAMseLVqtqe29Uagq1fds3
+93RAl07tOQWNQCigBMqsI28oFPTYqUNVQRs9u5vikscqJVjTiTW4JycLLfSpGxHF
+VIbuCWoGLdFswi3wIrCW3YdWWprITRC1/ApujLA1W5EQSZUkSYCAYxUqAAIAwiKQ
+JIAkhDGEApQhr2AeIULJEzk5y6dcakmaWqkuhyoMylTXzlo22xHldEQ/O8t+ug5n
+7IL/3nNXW/z02x5fk69mePXJr30tlXOr1zUHP2u50hPZc78nc2Lte+vCxwvrJ7Oz
+X1nZnHAkPF5b36Tc+6quaNzT1LJYi9m7LPr2JTqwQa/35N/ds25V/ovjo2N1cavH
+MwpLfJvbYw6X/dnlu3jmiL/w5ZHbp9I+uP8wsjSvcevapS81dvztcH6UEN/ZlrFl
+9LVk/8TOH6+473ZnRT6pmRofrp6/5eKpYwX8ocHv01+d13RpeeveqJxmD/souv/k
+jYswoWZk0ehA8truOfMfHLy2O3WorDX6RFn/l59u3RDT/K2yKDdmY0Jhfpp6s1Do
+PXr83ecyrjzMLf1mfVPjUmPegWXD75+pmF96/bpruuGt80fvhQ/E/VHxZs8Le7XX
+PRNxNxoPSN6JXvyOd0H8VFprxWL2Qu7zh5Y3tEbClXDn4m4iJXnWMNz5yGAS05q/
+qShuoL1q27nY2pTEgjciptlxt25sY3Bo81B7zrEHI3HFP9346/DH1Z1zi/vL+/P2
+77oa1ifyDg/c4aaStw/fSnE6FuZn9bkym86s9xxMKPV2bZtec/rWqoWXr8WyBd7v
+xtq2xJ79JefnXeem8i7o8aTo0fYaM9mdm5NzeeWKHzL7dn7hHGqRO9NbrqEdkzum
+fEWHatr6Mn+dkz60cv9V9eaJ34onH7hiB876H33YZQ52e48s6eiPvVV3uj4qo/5k
+Xsrns5I2r8AP/wU=
+=FIxa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/markhuber86
+
+==================================================================
